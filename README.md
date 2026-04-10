@@ -60,3 +60,13 @@ Aumento de Eficiência: Melhoria nas operações baseadas em dados.
 Redução de Custos: Minimização de desperdícios e otimização de recursos.
 Personalização: Ofertas mais alinhadas ao que os clientes realmente desejam.
 Inovação: Desenvolvimento de novas estratégias e produtos baseados em insights profundos.
+
+### Mapa conceitual
+
+<img width="1152" height="648" alt="Image" src="https://github.com/user-attachments/assets/1885ea89-cab4-4417-9869-6ccf322f010c" />
+
+### Elementos do Sistema:
+   Entrada: Coleta de dados de diversas fontes.
+  Processamento: Algoritmos e armazenamento em nuvem.
+   Saída: Insights acionáveis e dashboards.
+  Feedback: Ajustes nas estratégias baseados nas análises.
